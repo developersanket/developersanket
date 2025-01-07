@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/sanket-rathod-9069a7247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket-rathod-9069a7247" height="30" width="40" /></a>
 <a href="https://fb.com/sanket.rathod.1000469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanket.rathod.1000469" height="30" width="40" /></a>
 <a href="https://instagram.com/sanket_rathod_018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket_rathod_018" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/knowledge_with_sanket5071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knowledge_with_sanket5071" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@knowledge_with_sanket5071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knowledge_with_sanket5071" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
